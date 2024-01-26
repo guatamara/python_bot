@@ -95,4 +95,4 @@ async def resim(ctx):
     await ctx.send(file=picture)
     time.sleep(1)
     await ctx.send(f'Hep birlikte tercih ve alışkanlıklarımızı değiştirerek çevre kirliliği sorununu çözmeye çalışalım ve dünyamızı temiz tutalım.')
-bot.run("MTE5NTQxODE2MjQ2OTAzMjAyNg.GRb5Cq.6wUdlXOFt73U9ju7Op-LS0GPWwJuD7loAZ2TFk")
+bot.run("TOKEN")
